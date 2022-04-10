@@ -29,8 +29,10 @@ Users should be able to:
 
 ### Screenshots
 
-<!-- ![](./static/screenshot-desktop.png)
-<img src="./static/Screenshot_mobile.jpg" style="width: 50%;"> -->
+![Screenshot desktop initial state](./static/Screenshot-desktop-initial-state.png)
+![Screenshot desktop active state](./static/Screenshot-desktop-active-state.png)
+![Screenshot desktop last state](./static/Screenshot-desktop-last-state.png)
+<img src="./static/Screenshot-mobile.jpg" style="width: 50%;">
 
 ### Links
 
