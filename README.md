@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution: [frontendmentor solution page]()
-- Live Demo: [live demo]() -->
+- Solution: [frontendmentor solution page](https://www.frontendmentor.io/solutions/interactive-rating-component-using-sveltekit-and-tailwind-css-HJhgH-gNc)
+- Live Demo: [live demo](https://interactive-rating-component-gamma.vercel.app/)
 
 ## My process
 

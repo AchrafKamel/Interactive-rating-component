@@ -1,5 +1,5 @@
 <script>
-  import { selectedValue } from "../../data/selectedValue";
+  import { selectedValue } from "$data/selectedValue";
   export let value = 0;
 </script>
 
